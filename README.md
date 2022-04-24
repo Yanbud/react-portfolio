@@ -4,7 +4,7 @@
 This is a portfolio which is created using React. 
 
 ## Usage
-visit the website: <a href="https://yanbud.github.io/react-portfolio/">https://yanbud.github.io/react-portfolio/</a>
+Visit the website: <a href="https://yanbud.github.io/react-portfolio/">https://yanbud.github.io/react-portfolio/</a>
 ## Screenshot
  <p dir="auto"><img src="Screenshot.png" alt="Screenshot" style="max-width: 100%;" /></p>
 
